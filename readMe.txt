@@ -19,3 +19,5 @@ No shortcut commands. Press "Escape" to go back, and use the mouse or instructio
 
 Special thanks to LoneWarden, Chiggen, Romanz, Chomp, OneFiveThree, Serotonin, and the rest of the REVAMP clan for acting as fireteam members and testers.
 Without them, many more bugs and issues would have gotten past me, and I would not have been able to make this project.
+
+Last update: May 2021.
